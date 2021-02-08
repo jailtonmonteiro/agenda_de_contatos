@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  sqflite: ^1.1.5
+  sqflite: any
   url_launcher: ^5.0.2
   image_picker: ^0.6.0+3
 
