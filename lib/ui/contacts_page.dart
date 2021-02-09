@@ -61,6 +61,15 @@ class _ContactPageState extends State<ContactPage> {
                   ),
                 ),
               ),
+            ),
+            TextField(
+              decoration: InputDecoration(labelText: "Nome"),
+            ),
+            TextField(
+              decoration: InputDecoration(labelText: "Email"),
+            ),
+            TextField(
+              decoration: InputDecoration(labelText: "Phone"),
             )
           ],
         ),
