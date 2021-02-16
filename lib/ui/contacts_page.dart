@@ -20,7 +20,7 @@ class _ContactPageState extends State<ContactPage> {
 
   final _nameFocus = FocusNode();
 
-  bool _userEdited;
+  bool _userEdited = false;
 
   Contact _editedContact;
 
